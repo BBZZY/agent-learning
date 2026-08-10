@@ -4,6 +4,10 @@ __pycache__/
 .venv/
 venv/
 
+# 数据库（运行时生成，不入版本库）
+*.db
+*.sqlite3
+
 # Node
 node_modules/
 
