@@ -1,4 +1,4 @@
-# Agent 学习路线
+# 祝知邦的 agent 学习课程
 
 在校大学生转智能体工程师（AI Agent 方向）的系统学习项目，**目标入职 DeepSeek Agent 方向**。
 
